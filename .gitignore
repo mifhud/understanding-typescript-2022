@@ -1,0 +1,10 @@
+# MacOS
+.DS_Store
+__MACOSX
+
+# vscode
+.vscode
+
+# node_modules
+node_modules
+package-lock.json
